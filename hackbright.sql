@@ -166,7 +166,7 @@ COPY public.grades (id, student_github, project_title, grade) FROM stdin;
 1	jhacks	Markov	10
 2	jhacks	Blockly	2
 3	sdevelops	Markov	50
-4	sdevelops	Blocky	100
+4	sdevelops	Blockly	100
 \.
 
 
